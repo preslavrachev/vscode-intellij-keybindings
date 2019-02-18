@@ -15,6 +15,10 @@
         "when": "editorTextFocus"
     },
     {
+        "key": "cmd+e",
+        "command": "workbench.action.quickOpen"
+    },
+    {
         "key": "cmd+n",
         "command": "workbench.action.quickOpen",
         "when": "editorTextFocus"

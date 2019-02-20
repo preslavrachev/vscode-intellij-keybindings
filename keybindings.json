@@ -20,7 +20,7 @@
     },
     {
         "key": "cmd+n",
-        "command": "workbench.action.quickOpen",
+        "command": "workbench.action.showAllSymbols"
         "when": "editorTextFocus"
     },
     {
